@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=BIAS|SchDesignator=BIAS|FileName=Amp Bias.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Amp Bias.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=CTRL|SchDesignator=CTRL|FileName=Control.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Control.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=EO|SchDesignator=EO|FileName=E-O Converter.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=E-O Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=FE|SchDesignator=FE|FileName=Front End.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Front End.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
