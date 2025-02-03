@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ProbeHead.PrjPcb]
+   Generated File[ProbeHead_Copper_Signal_Top.gbr]
+   Generated File[ProbeHead_Copper_Signal_1.gbr]
+   Generated File[ProbeHead_Copper_Signal_2.gbr]
+   Generated File[ProbeHead_Copper_Signal_Bot.gbr]
+   Generated File[ProbeHead_Legend_Top.gbr]
+   Generated File[ProbeHead_Legend_Bot.gbr]
+   Generated File[ProbeHead_Soldermask_Top.gbr]
+   Generated File[ProbeHead_Soldermask_Bot.gbr]
+   Generated File[ProbeHead_Paste_Top.gbr]
+   Generated File[ProbeHead_Paste_Bot.gbr]
+   Generated File[ProbeHead_Fab_Notes.gbr]
+   Generated File[ProbeHead_Profile.gbr]
+   Generated File[ProbeHead_NPTH_Drill.gbr]
+   Generated File[ProbeHead_PTH_Drill.gbr]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 7:37:56 PM On 2025-02-02

@@ -1,0 +1,29 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal 96 64 -112 -64
+WINDOW 0 -112 -103 Left 2
+WINDOW 3 -112 -80 Left 2
+SYMATTR Prefix X
+SYMATTR Value AD8129
+SYMATTR ModelFile C:\Users\juddf\Documents\OpticalProbeTest\LTSpice\ad8129.cir
+PIN -112 -48 LEFT 8
+PINATTR PinName IN+
+PINATTR SpiceOrder 1
+PIN -112 -16 LEFT 8
+PINATTR PinName IN-
+PINATTR SpiceOrder 2
+PIN -112 16 LEFT 8
+PINATTR PinName REF
+PINATTR SpiceOrder 3
+PIN -112 48 LEFT 8
+PINATTR PinName FB
+PINATTR SpiceOrder 4
+PIN 0 -64 TOP 8
+PINATTR PinName V+
+PINATTR SpiceOrder 5
+PIN 0 64 BOTTOM 8
+PINATTR PinName V-
+PINATTR SpiceOrder 6
+PIN 96 0 RIGHT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 7

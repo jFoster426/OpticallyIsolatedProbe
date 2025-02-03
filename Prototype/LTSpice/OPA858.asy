@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -96 -48 96 48
+WINDOW 0 -112 -88 Left 2
+WINDOW 3 -112 -64 Left 2
+SYMATTR Prefix X
+SYMATTR Value OPA858
+SYMATTR ModelFile C:\Users\juddf\Documents\OpticalProbeTest\LTSpice\OPA858.lib
+PIN -96 -32 LEFT 8
+PINATTR PinName INP
+PINATTR SpiceOrder 1
+PIN -96 32 LEFT 8
+PINATTR PinName INN
+PINATTR SpiceOrder 2
+PIN 0 -48 TOP 8
+PINATTR PinName VCC
+PINATTR SpiceOrder 3
+PIN 0 48 BOTTOM 8
+PINATTR PinName VEE
+PINATTR SpiceOrder 4
+PIN 96 0 RIGHT 8
+PINATTR PinName OUT
+PINATTR SpiceOrder 5

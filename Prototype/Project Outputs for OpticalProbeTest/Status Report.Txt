@@ -1,0 +1,18 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [OpticalProbeTest.PrjPcb]
+   Generated File[OpticalProbeTest_Copper_Signal_Top.gbr]
+   Generated File[OpticalProbeTest_Copper_Signal_Bot.gbr]
+   Generated File[OpticalProbeTest_Legend_Top.gbr]
+   Generated File[OpticalProbeTest_Legend_Bot.gbr]
+   Generated File[OpticalProbeTest_Soldermask_Top.gbr]
+   Generated File[OpticalProbeTest_Soldermask_Bot.gbr]
+   Generated File[OpticalProbeTest_Profile.gbr]
+   Generated File[OpticalProbeTest_NPTH_Drill.gbr]
+   Generated File[OpticalProbeTest_PTH_Drill.gbr]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 6:04:21 PM On 2024-11-07

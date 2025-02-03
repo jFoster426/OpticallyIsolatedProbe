@@ -1,0 +1,60 @@
+Questionable use of curly braces in "b1 n006 0  i={i(b2)*{txsensitivity}*{loss}*{rxsensitivity}}"
+    Error: undefined symbol in: "[i](b2)*(txsensitivity)*(loss)*(rxsensitivity)"
+Circuit: * C:\Users\juddf\Documents\OpticalProbeTest\LTSpice\Circuit.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+vernier = 0.5
+Gmin = 0.0025641
+vernier = 0.666667
+vernier = 0.333333
+Gmin = 0.000966301
+vernier = 0.166667
+vernier = 0.0833333
+vernier = 0.0416667
+Gmin = 0.00095431
+vernier = 0.0208333
+vernier = 0.0104167
+vernier = 0.0138889
+Gmin = 0.000945217
+vernier = 0.0185185
+Gmin = 0.000906722
+vernier = 0.0246913
+vernier = 0.0329218
+Gmin = 0.000845667
+vernier = 0.0438957
+vernier = 0.0585276
+Gmin = 0.000756873
+vernier = 0.0780367
+Gmin = 0.000635978
+vernier = 0.104049
+vernier = 0.138732
+Gmin = 0.000475661
+vernier = 0.184976
+vernier = 0.246634
+Gmin = 0.000300549
+vernier = 0.328846
+Gmin = 0.000147266
+vernier = 0.438461
+vernier = 0.584614
+Gmin = 4.57191e-05
+vernier = 0.779486
+vernier = 1
+Gmin = 7.65359e-06
+Gmin = 8.21798e-07
+Gmin = 8.82399e-08
+Gmin = 9.47469e-09
+Gmin = 1.01734e-09
+Gmin = 1.09236e-10
+Gmin = 1.17291e-11
+Gmin = 1.2594e-12
+Gmin = 1.35227e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+.step x=0.3
+.step x=0.5
