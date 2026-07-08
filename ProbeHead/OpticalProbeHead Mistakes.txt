@@ -1,0 +1,19 @@
+NA   - Replace R9 with 49.9k,0402
+NA   - Replace R10 with 316k,0402?
+NA   - Parallel R11 with 10nF,0402
+NA   - Replace R11 with proper value
+NA   - Parallel R15 with 10nF,0402
+NA   - Replace R15 with proper value
+DONE - D1 is probably initially enabling the unit unintentionally, need another diode for diode OR on MOSFET gate
+DONE - Also, too much leakage current flowing through R3 and R4 (mostly R4)
+DONE - Replace PIC ferrite with 0R0 to be fitted with ferrite later if needed
+NA   - Schottky diodes between inputs and outputs of U4 - IMPORTANT!!!!!!
+NA   - Redo TPS7A3901 layout to look like datasheet
+DONE - Add 2k00 or 1k00 resistor parallel to pin 6 and 7 of U8B
+NA   - Need to parallel Schottky diode with R16 but connect cathode to +5V0
+Need to protect all PIC inputs
+PIC inputs need to be isolated somehow from analog supplies to prevent back-feeding the analog supplies
+Change R5 to 1k or lower to combat pull-up current on PIC - RC circuit could be used also
+tps61322 inductor saturation current too small
+output capacitor on TPS61322 should be bigger?
+tps61322 doesn't seem like the right IC to be doing this boost converter, the inrush current is way too high
