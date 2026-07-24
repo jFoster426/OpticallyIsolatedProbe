@@ -1,0 +1,12 @@
+Add component: Footprint Not Found RESC1005X04N
+Add component: Footprint Not Found RESC1005X04N
+Added Pin To Net: NetName=DIG Pin=L2-2
+Added Pin To Net: NetName=SDA Pin=L3-2
+Added Pin To Net: NetName=SCL Pin=L4-2
+Added Pin To Net: NetName=CMP Pin=L5-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Class Member: Failed to add class member : Component R9 0R0,0.1W,0402
+Add Class Member: Failed to add class member : Component R15 0R0,0.1W,0402
