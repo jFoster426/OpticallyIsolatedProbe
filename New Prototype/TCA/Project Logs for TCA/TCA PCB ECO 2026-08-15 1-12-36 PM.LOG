@@ -1,0 +1,38 @@
+Removed Member From Class: ClassName=CONN Member=J3
+Removed Member From Class: ClassName=CONN Member=J4
+Added Pin To Net: NetName=+5V0AMP Pin=J2-1
+Added Pin To Net: NetName=+5V0AMP Pin=J2-3
+Added Pin To Net: NetName=COM Pin=J2-4
+Added Pin To Net: NetName=+5V0AMP Pin=J2-5
+Added Pin To Net: NetName=COM Pin=J2-7
+Added Pin To Net: NetName=COM Pin=J2-8
+Added Pin To Net: NetName=COM Pin=J2-9
+Added Pin To Net: NetName=-5V0AMP Pin=J2-11
+Added Pin To Net: NetName=COM Pin=J2-12
+Added Pin To Net: NetName=-5V0AMP Pin=J2-13
+Added Pin To Net: NetName=-5V0AMP Pin=J2-15
+Added Pin To Net: NetName=COM Pin=J2-16
+Added Pin To Net: NetName=+5V0AMP Pin=J5-1
+Added Pin To Net: NetName=+5V0AMP Pin=J5-3
+Added Pin To Net: NetName=COM Pin=J5-4
+Added Pin To Net: NetName=+5V0AMP Pin=J5-5
+Added Pin To Net: NetName=COM Pin=J5-7
+Added Pin To Net: NetName=COM Pin=J5-8
+Added Pin To Net: NetName=COM Pin=J5-9
+Added Pin To Net: NetName=-5V0AMP Pin=J5-11
+Added Pin To Net: NetName=COM Pin=J5-12
+Added Pin To Net: NetName=-5V0AMP Pin=J5-13
+Added Pin To Net: NetName=-5V0AMP Pin=J5-15
+Added Pin To Net: NetName=COM Pin=J5-16
+Added Pin To Net: NetName=CMPe Pin=J2-14
+Added Pin To Net: NetName=CMPe Pin=J5-14
+Added Net: Name=CMPe
+Added Pin To Net: NetName=DIGe Pin=J2-2
+Added Pin To Net: NetName=DIGe Pin=J5-2
+Added Net: Name=DIGe
+Added Pin To Net: NetName=SCLe Pin=J2-10
+Added Pin To Net: NetName=SCLe Pin=J5-10
+Added Net: Name=SCLe
+Added Pin To Net: NetName=SDAe Pin=J2-6
+Added Pin To Net: NetName=SDAe Pin=J5-6
+Added Net: Name=SDAe
