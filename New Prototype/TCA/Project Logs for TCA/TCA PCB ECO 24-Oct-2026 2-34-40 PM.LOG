@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=-5V0AMP Pin=C17-1
+Removed Pin From Net: NetName=COM Pin=C17-2
+Removed Pin From Net: NetName=NetC16_2 Pin=C19-1
+Removed Pin From Net: NetName=NetC19_2 Pin=C19-2
+Removed Pin From Net: NetName=REF Pin=R14-1
+Removed Pin From Net: NetName=NetC16_2 Pin=R14-2
+Removed Member From Class: ClassName=FE Member=R14
+Change Component Footprint: Designator=C19 Old Footprint=CAPC1005X06N New Footprint=EWELECTRONICS_SGC3S
+Change Component Comment : Designator=R14 Old Comment=Omit New Comment=omit,0402
+Change Component Comment : Designator=C19 Old Comment=Omit,0402 New Comment=8-30pF
+Change Component Kind : Designator=C19 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAPC1005X06N"; UniqueID = "\KTELGOWL\FETPJIQC" ("\KTELGOWL\FETPJIQC")
+Change component parameters (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sprague-Goodman%20PDFs/SGC3S%20Series.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "EW Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "SGC3S300NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Name"; Value = "CAP,Trim,8-30pF,100V,SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor 1 Part Number"; Value = "2447-SGC3S300NMCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C29(EWELECTRONICS_SGC3S)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Sprague-Goodman%20PDFs/SGC3S%20Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "EW Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "SGC3S060NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Trim,2-6pF,100V,SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "2447-SGC3S060NMCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM Pin=C17-1
+Added Pin To Net: NetName=-5V0AMP Pin=C17-2
+Added Pin To Net: NetName=REF Pin=C19-1
+Added Pin To Net: NetName=NetC16_2 Pin=C19-2
+Added Pin To Net: NetName=NetC16_2 Pin=C29-1
+Added Pin To Net: NetName=NetC19_2 Pin=C29-2
+Added Pin To Net: NetName=DIG Pin=R14-1
+Added Pin To Net: NetName=NetR11_1 Pin=R14-2
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC29_2
+Added Member To Class: ClassName=FE Member=Component C29 2-6pF
+Added Member To Class: ClassName=DR Member=Component R14 omit,0402
