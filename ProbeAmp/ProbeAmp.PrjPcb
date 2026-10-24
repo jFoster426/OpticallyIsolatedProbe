@@ -118,23 +118,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KYXITCMK
 
 [Document5]
-DocumentPath=Waveform Generator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=4
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CJYYKHLU
-
-[Document6]
 DocumentPath=Gain Scaling.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PVEELFVP
 
-[Document7]
+[Document6]
 DocumentPath=Output Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,24 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTJQJGNN
 
-[Document8]
-DocumentPath=I2C Translator.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QNKECPZS
-
-[Document9]
+[Document7]
 DocumentPath=E-O Converter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVIXOLNV
 
-[Document10]
+[Document8]
 DocumentPath=ProbeAmp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
