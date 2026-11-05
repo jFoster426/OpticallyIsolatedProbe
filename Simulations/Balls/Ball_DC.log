@@ -1,0 +1,155 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\kheyer\OpticallyIsolatedProbe\Simulations\Balls\Ball_DC.asc
+Start Time: Wed Jul 15 13:26:04 2026
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = modified trap
+ERROR: Node U1:U1:I21:1:102 is floating and connected to current source G:U1:U1:I21:1:RA
+ERROR: Node U1:U1:I19:1:102 is floating and connected to current source G:U1:U1:I19:1:RA
+ERROR: Node U1:U1:I19:1:302 is floating and connected to current source G:U1:U1:I19:1:RC
+
+U1:u1:i30:vcursinkdetect_in: Missing value, assumed 0V @ DC
+U1:u1:i30:vcursourcedetect_in: Missing value, assumed 0V @ DC
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 2.84124
+vernier = 0.666667
+vernier = 0.333333
+vernier = 0.166667
+Gmin = 1.90108
+vernier = 0.222222
+vernier = 0.111111
+Gmin = 1.31823
+vernier = 0.148148
+vernier = 0.074074
+Gmin = 1.02145
+vernier = 0.037037
+vernier = 0.0185185
+vernier = 0.00925925
+vernier = 0.00462963
+Gmin = 1.00623
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.00245
+vernier = 0.000578703
+vernier = 0.000434027
+vernier = 0.000578703
+vernier = 0.000434027
+Gmin = 0
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 4.7822%
+Source Step = 4.99527%
+Source Step = 5.03078%
+Source Step = 5.06037%
+Source Step = 5.08996%
+Source Step = 5.11955%
+Source Step = 5.14915%
+Source Step = 5.17874%
+Source Step = 5.20833%
+Source Step = 5.23793%
+Source Step = 5.26752%
+vernier = 0.00146484
+Source Step = 5.30895%
+Source Step = 5.35334%
+Source Step = 5.39773%
+Source Step = 5.44212%
+Source Step = 5.48651%
+vernier = 0.00219727
+Source Step = 5.54643%
+Source Step = 5.61301%
+Source Step = 5.6796%
+Source Step = 5.74618%
+Source Step = 5.81277%
+vernier = 0.0032959
+Source Step = 5.89933%
+Source Step = 5.9992%
+Source Step = 6.09908%
+Source Step = 6.19895%
+Source Step = 6.29883%
+vernier = 0.00494385
+Source Step = 6.42367%
+Source Step = 6.57349%
+Source Step = 6.7233%
+Source Step = 6.87311%
+Source Step = 7.02293%
+vernier = 0.00741577
+Source Step = 7.2027%
+Source Step = 7.42742%
+Source Step = 7.65214%
+Source Step = 7.87686%
+Source Step = 8.10158%
+vernier = 0.0111237
+Source Step = 8.36001%
+Source Step = 8.43586%
+Source Step = 8.52013%
+Source Step = 8.6044%
+Source Step = 8.68867%
+Source Step = 8.77294%
+vernier = 0.00417137
+Source Step = 8.88249%
+Source Step = 9.00889%
+Source Step = 9.1353%
+Source Step = 9.2617%
+Source Step = 9.38811%
+vernier = 0.00625706
+Source Step = 9.54612%
+Source Step = 9.73572%
+Source Step = 9.92533%
+Source Step = 10.1149%
+Source Step = 10.3045%
+vernier = 0.00938559
+Source Step = 10.5321%
+Source Step = 10.8165%
+Source Step = 11.1009%
+Source Step = 11.3853%
+Source Step = 11.6697%
+vernier = 0.0140784
+Source Step = 11.9968%
+Source Step = 12.4234%
+Source Step = 12.85%
+Source Step = 13.2766%
+Source Step = 13.7033%
+vernier = 0.0211176
+Source Step = 14.1725%
+Source Step = 14.8125%
+Source Step = 15.4524%
+Source Step = 15.6404%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 9.84848%
+Source Step = 17.4242%
+Source Step = 25%
+Source Step = 32.5758%
+Source Step = 40.1515%
+vernier = 0.375
+Source Step = 50.7576%
+Source Step = 62.1212%
+Source Step = 73.4848%
+Source Step = 84.8485%
+Source Step = 90.5347%
+Source stepping failed
+
+Pseudo Transient failed in finding the operating point at 5.4346 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+Changing Tseed to 9.76562e-13
+Changing Tseed to 9.76562e-15
+Changing Tseed to 9.76562e-12
+Changing Tseed to 9.76562e-16
+Changing Tseed to 9.76563e-11
+Changing Tseed to 9.76562e-17
+Changing Tseed to 9.76562e-10
+Changing Tseed to 9.76562e-18
+Changing Tseed to 9.76562e-09
+Changing Tseed to 9.76563e-19
+Changing Tseed to 9.76563e-08
+Changing Tseed to 9.76563e-20
+Fatal Error: Analysis:  Time step too small; initial timepoint: trouble with u3:npn_in-instance q:u3:2
+
