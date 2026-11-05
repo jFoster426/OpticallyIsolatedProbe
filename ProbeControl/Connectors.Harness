@@ -1,0 +1,6 @@
+ANALOG=Analog0,Analog1,Analog2,Analog3,Analog4
+I2C=SCL,SDA
+PWR_CTRL=5V.EN,VBat0,VBat1
+SPI=SCLK,MISO,MOSI
+UART=Tx,Rx
+USB=DM,DP
