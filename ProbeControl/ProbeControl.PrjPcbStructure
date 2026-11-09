@@ -1,7 +1,6 @@
 Record=TopLevelDocument|FileName=Top.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=EOC|SchDesignator=EOC|FileName=E-O Converter.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=E-O Converter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=PWR|SchDesignator=PWR|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Top.SchDoc|FileName=Connectors.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Top.SchDoc|FileName=Display.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Top.SchDoc|FileName=MCU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Top.SchDoc|FileName=Switches.SchDoc|SheetNumber=5
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Connectors|SchDesignator=U_Connectors|FileName=Connectors.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Display|SchDesignator=U_Display|FileName=Display.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Display.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_Switches|SchDesignator=U_Switches|FileName=Switches.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Switches.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
