@@ -1,0 +1,3 @@
+BTN=VScale.Up,VScale.Down,Spare0,Spare1,Cal
+I2C=SCL,SDA
+SWD=CLK,DIO,nRST
