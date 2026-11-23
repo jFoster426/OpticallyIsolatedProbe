@@ -1,0 +1,14 @@
+Added Component: Designator=R?(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,Omit,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Omit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REF Pin=R?-1
+Added Pin To Net: NetName=NetC19_2 Pin=R?-2
+Added Member To Class: ClassName=DR Member=Component C9 Omit,0402
+Added Member To Class: ClassName=CAL Member=Component R8 1k,0.1%,0.063W,0402
+Added Member To Class: ClassName=FE Member=Component R? Omit

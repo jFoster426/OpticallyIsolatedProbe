@@ -1,0 +1,352 @@
+Removed Pin From Net: NetName=COM Pin=C9-1
+Removed Pin From Net: NetName=+5V0AMP Pin=C9-2
+Removed Pin From Net: NetName=COM Pin=C10-1
+Removed Pin From Net: NetName=+5V0AMP Pin=C10-2
+Removed Pin From Net: NetName=REF Pin=C16-1
+Removed Pin From Net: NetName=NetC16_2 Pin=C16-2
+Removed Pin From Net: NetName=COM Pin=J2-4
+Removed Pin From Net: NetName=COM Pin=J2-9
+Removed Pin From Net: NetName=-5V0AMP Pin=J2-11
+Removed Pin From Net: NetName=COM Pin=J2-12
+Removed Pin From Net: NetName=-5V0AMP Pin=J2-13
+Removed Pin From Net: NetName=-5V0AMP Pin=J2-15
+Removed Pin From Net: NetName=COM Pin=J5-4
+Removed Pin From Net: NetName=COM Pin=J5-9
+Removed Pin From Net: NetName=-5V0AMP Pin=J5-11
+Removed Pin From Net: NetName=COM Pin=J5-12
+Removed Pin From Net: NetName=-5V0AMP Pin=J5-13
+Removed Pin From Net: NetName=-5V0AMP Pin=J5-15
+Removed Pin From Net: NetName=NetR8_1 Pin=R8-1
+Removed Pin From Net: NetName=COM Pin=R8-2
+Removed Pin From Net: NetName=COM Pin=U4-2
+Removed Pin From Net: NetName=NetR8_1 Pin=U4-3
+Removed Pin From Net: NetName=OFFSET Pin=U4-4
+Removed Pin From Net: NetName=+5V0AMP Pin=U4-5
+Removed Pin From Net: NetName=OUT Pin=U5-3
+Removed Member From Class: ClassName=AB Member=C9
+Removed Member From Class: ClassName=AB Member=C10
+Removed Member From Class: ClassName=FE Member=C16
+Removed Member From Class: ClassName=AB Member=R8
+Removed Member From Class: ClassName=AB Member=U4
+Added Component: Designator=C9(CAPC1005X06N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Omit,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Omit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAPC1005X06N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E104KE14-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "GRM155R71E104KE14J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,100nF,10%,25V,X7R,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC3216X16N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "CL31A106MBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,10uF,50VDC,X5R,1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "1276-6736-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(NEXPERIA_PKG_SOD523)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://assets.nexperia.com/documents/data-sheet/PMEG2010AEB.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Nexperia USA Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "PMEG2010AEBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "DIODE,Schottky,20V,1A,SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "1727-8539-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=K1(TE_PKG_IM_GULLWING)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Kevin Heyer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773734-7_IM_Relay_I_Type&DocType=DS&DocLang=English"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "IM03GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RELAY,DPDT,5V,IM03GR"; VariantName = "[No Variations]"
+Added Component: Designator=L6(INDC1005X05N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.murata.com/en-us/products/productdata/8796740059166/ENFA0018.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "BLM15PX471SN1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "Ferrite,470R@100MHz,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "490-10662-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(ONSEMI_SC-89)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.onsemi.com/pdf/datasheet/nta4153n-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "NTE4153NT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "MOSFET,N Ch,20V,915mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "NTE4153NT1GOSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RMCF0402JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,10k,5%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DIgikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "RMCF0402JT10K0CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RMCF0402JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,10k,5%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DIgikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "RMCF0402JT10K0CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rt_1-to-0.01_rohs_l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RT0402BRE071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,0.1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "YAG2306CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RMCF0402JT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,10k,5%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DIgikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "RMCF0402JT10K0CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RMCF0402JT1K00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k,5%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DIgikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "RMCF0402JT1K00CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RESC1005X04N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_10.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "RC0402FR-071K5L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "RES,1k5,1%,0.063W,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "311-1.50KLRCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U9(TEXASINSTRUMENTS_PKG_DGK0008A)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.ti.com/lit/ds/symlink/lm7332.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1730932081789&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "LM7332MMX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "LM7332MMX_NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "296-LM7332MMX/NOPBCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOTFL95P260X145-6)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://datasheet.lcsc.com/lcsc/1811151442_Microchip-Tech-MCP4725A0T-E-CH_C144198.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "MCP4725A0T-E/CH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "MCP4725A0T-E/CH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "C144198"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM Pin=C30-1
+Added Pin To Net: NetName=+5V0AMP Pin=C30-2
+Added Pin To Net: NetName=COM Pin=C31-1
+Added Pin To Net: NetName=+5V0AMP Pin=D3-1
+Added Pin To Net: NetName=-5V0AMP Pin=J2-2
+Added Pin To Net: NetName=-5V0AMP Pin=J2-4
+Added Pin To Net: NetName=-5V0AMP Pin=J2-6
+Added Pin To Net: NetName=COM Pin=J3-7
+Added Pin To Net: NetName=COM Pin=J3-10
+Added Pin To Net: NetName=COM Pin=J3-16
+Added Pin To Net: NetName=COM Pin=J4-7
+Added Pin To Net: NetName=COM Pin=J4-10
+Added Pin To Net: NetName=COM Pin=J4-16
+Added Pin To Net: NetName=-5V0AMP Pin=J5-2
+Added Pin To Net: NetName=-5V0AMP Pin=J5-4
+Added Pin To Net: NetName=-5V0AMP Pin=J5-6
+Added Pin To Net: NetName=+5V0AMP Pin=K1-1
+Added Pin To Net: NetName=OUT Pin=K1-2
+Added Pin To Net: NetName=OFFSET Pin=L5-2
+Added Pin To Net: NetName=COM Pin=Q1-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=+2V50REF Pin=R24-1
+Added Pin To Net: NetName=NetR8_1 Pin=R24-2
+Added Pin To Net: NetName=SDA Pin=R26-1
+Added Pin To Net: NetName=+5V0AMP Pin=R26-2
+Added Pin To Net: NetName=SCL Pin=R28-1
+Added Pin To Net: NetName=+5V0AMP Pin=R28-2
+Added Pin To Net: NetName=COM Pin=R31-2
+Added Pin To Net: NetName=COM Pin=R33-1
+Added Pin To Net: NetName=NetR8_1 Pin=U9-2
+Added Pin To Net: NetName=COM Pin=U9-3
+Added Pin To Net: NetName=COM Pin=U9-5
+Added Pin To Net: NetName=COM Pin=U10-2
+Added Pin To Net: NetName=+5V0AMP Pin=U10-3
+Added Pin To Net: NetName=SDA Pin=U10-4
+Added Pin To Net: NetName=SCL Pin=U10-5
+Added Pin To Net: NetName=+5V0AMP Pin=U10-6
+Change Net Name : Old Net Name=CMPe New Net Name=CMN.ADC1_SPR
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=SCL New Net Name=I2C4_SCL
+Change Net Name : Old Net Name=SCLe New Net Name=CMN.VBAT0
+Change Net Name : Old Net Name=SDA New Net Name=I2C4_SDA
+Added Pin To Net: NetName=CMN.AMP_EN Pin=J3-5
+Added Pin To Net: NetName=CMN.AMP_EN Pin=J4-5
+Added Net: Name=CMN.AMP_EN
+Added Pin To Net: NetName=CMN.AN0 Pin=J2-9
+Added Pin To Net: NetName=CMN.AN0 Pin=J5-9
+Added Pin To Net: NetName=CMN.AN0 Pin=L5-1
+Added Net: Name=CMN.AN0
+Added Pin To Net: NetName=CMN.AN1 Pin=J2-11
+Added Pin To Net: NetName=CMN.AN1 Pin=J5-11
+Added Net: Name=CMN.AN1
+Added Pin To Net: NetName=CMN.AN2 Pin=J2-13
+Added Pin To Net: NetName=CMN.AN2 Pin=J5-13
+Added Net: Name=CMN.AN2
+Added Pin To Net: NetName=CMN.AN3 Pin=J2-15
+Added Pin To Net: NetName=CMN.AN3 Pin=J5-15
+Added Net: Name=CMN.AN3
+Added Pin To Net: NetName=CMN.FIBER_RX Pin=J3-1
+Added Pin To Net: NetName=CMN.FIBER_RX Pin=J4-1
+Added Pin To Net: NetName=CMN.FIBER_RX Pin=L2-1
+Added Net: Name=CMN.FIBER_RX
+Added Pin To Net: NetName=CMN.FIBER_TX Pin=J3-3
+Added Pin To Net: NetName=CMN.FIBER_TX Pin=J4-3
+Added Net: Name=CMN.FIBER_TX
+Added Pin To Net: NetName=CMN.GPIO0 Pin=J3-2
+Added Pin To Net: NetName=CMN.GPIO0 Pin=J4-2
+Added Pin To Net: NetName=CMN.GPIO0 Pin=L6-1
+Added Net: Name=CMN.GPIO0
+Added Pin To Net: NetName=CMN.GPIO1 Pin=J3-4
+Added Pin To Net: NetName=CMN.GPIO1 Pin=J4-4
+Added Net: Name=CMN.GPIO1
+Added Pin To Net: NetName=CMN.I2C4_SCL Pin=J3-6
+Added Pin To Net: NetName=CMN.I2C4_SCL Pin=J4-6
+Added Pin To Net: NetName=CMN.I2C4_SCL Pin=L4-1
+Added Net: Name=CMN.I2C4_SCL
+Added Pin To Net: NetName=CMN.I2C4_SDA Pin=J3-8
+Added Pin To Net: NetName=CMN.I2C4_SDA Pin=J4-8
+Added Pin To Net: NetName=CMN.I2C4_SDA Pin=L3-1
+Added Net: Name=CMN.I2C4_SDA
+Added Pin To Net: NetName=CMN.SPI1_CS1 Pin=J3-9
+Added Pin To Net: NetName=CMN.SPI1_CS1 Pin=J4-9
+Added Net: Name=CMN.SPI1_CS1
+Added Pin To Net: NetName=CMN.SPI1_MISO Pin=J3-11
+Added Pin To Net: NetName=CMN.SPI1_MISO Pin=J4-11
+Added Net: Name=CMN.SPI1_MISO
+Added Pin To Net: NetName=CMN.SPI1_MOSI Pin=J3-13
+Added Pin To Net: NetName=CMN.SPI1_MOSI Pin=J4-13
+Added Net: Name=CMN.SPI1_MOSI
+Added Pin To Net: NetName=CMN.SPI1_SCK Pin=J3-15
+Added Pin To Net: NetName=CMN.SPI1_SCK Pin=J4-15
+Added Net: Name=CMN.SPI1_SCK
+Added Pin To Net: NetName=CMN.USB_DM Pin=J3-14
+Added Pin To Net: NetName=CMN.USB_DM Pin=J4-14
+Added Net: Name=CMN.USB_DM
+Added Pin To Net: NetName=CMN.USB_DP Pin=J3-12
+Added Pin To Net: NetName=CMN.USB_DP Pin=J4-12
+Added Net: Name=CMN.USB_DP
+Added Pin To Net: NetName=CMN.VBAT1 Pin=J2-12
+Added Pin To Net: NetName=CMN.VBAT1 Pin=J5-12
+Added Net: Name=CMN.VBAT1
+Added Pin To Net: NetName=COIL Pin=L6-2
+Added Pin To Net: NetName=COIL Pin=R30-1
+Added Net: Name=COIL
+Added Pin To Net: NetName=FIBER_RX Pin=C9-1
+Added Pin To Net: NetName=FIBER_RX Pin=L2-2
+Added Pin To Net: NetName=FIBER_RX Pin=R32-2
+Added Pin To Net: NetName=FIBER_RX Pin=R33-2
+Added Net: Name=FIBER_RX
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R14-1
+Added Pin To Net: NetName=NetC9_2 Pin=R32-1
+Added Pin To Net: NetName=NetC9_2 Pin=U8-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=K1-4
+Added Pin To Net: NetName=NetC31_2 Pin=R27-2
+Added Pin To Net: NetName=NetC31_2 Pin=U9-7
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=K1-8
+Added Pin To Net: NetName=NetD3_2 Pin=Q1-3
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_3 Pin=U5-3
+Added Net: Name=NetK1_3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R30-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R31-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=R25-1
+Added Pin To Net: NetName=NetR8_2 Pin=U9-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=NetR25_2 Pin=R27-1
+Added Pin To Net: NetName=NetR25_2 Pin=R29-2
+Added Pin To Net: NetName=NetR25_2 Pin=U9-6
+Added Net: Name=NetR25_2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_1 Pin=U10-1
+Added Net: Name=NetR29_1
+Added Class: Name=CAL
+Added Class: Name=SW
+Added Member To Class: ClassName=DR Member=Component C9 Omit,0402
+Added Member To Class: ClassName=CONN Member=Component L6 470R
+Added Member To Class: ClassName=DR Member=Component R32 1k,5%,0.063W,0402
+Added Member To Class: ClassName=DR Member=Component R33 1k5,1%,0.063W,0402
+Added Member To Class: ClassName=S50 Member=Wire NetK1_3

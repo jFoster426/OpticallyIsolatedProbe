@@ -1,0 +1,52 @@
+Added Component: Designator=C10(CAPC1005X06N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E104KE14-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "GRM155R71E104KE14J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,100nF,10%,25V,X7R,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC3216X16N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "CL31A106MBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,10uF,50VDC,X5R,1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "1276-6736-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1005X06N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R71E104KE14-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "GRM155R71E104KE14J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,100nF,10%,25V,X7R,0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "490-14603-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC3216X16N)
+Add component (AddParameter): Name = "CreatedBy"; Value = "Judd Foster"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1 Part Number"; Value = "CL31A106MBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Name"; Value = "CAP,Cer,10uF,50VDC,X5R,1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor 1 Part Number"; Value = "1276-6736-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=COM Pin=C10-1
+Added Pin To Net: NetName=+5V0AMP Pin=C10-2
+Added Pin To Net: NetName=COM Pin=C16-1
+Added Pin To Net: NetName=+5V0AMP Pin=C16-2
+Added Pin To Net: NetName=COM Pin=C32-1
+Added Pin To Net: NetName=-5V0AMP Pin=C32-2
+Added Pin To Net: NetName=COM Pin=C33-1
+Added Pin To Net: NetName=-5V0AMP Pin=C33-2
+Added Pin To Net: NetName=-5V0AMP Pin=U9-4
+Added Pin To Net: NetName=+5V0AMP Pin=U9-8
+Added Member To Class: ClassName=DR Member=Component C9 Omit,0402
+Added Member To Class: ClassName=CAL Member=Component C10 100n,10%,25V,X7R,0402
+Added Member To Class: ClassName=CAL Member=Component C16 10u,20%,50V,X5R,1206
+Added Member To Class: ClassName=CAL Member=Component C32 100n,10%,25V,X7R,0402
+Added Member To Class: ClassName=CAL Member=Component C33 10u,20%,50V,X5R,1206
+Added Member To Class: ClassName=CAL Member=Component R8 1k,0.1%,0.063W,0402
